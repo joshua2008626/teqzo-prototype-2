@@ -1,0 +1,488 @@
+brand,name,year,ram_gb,storage_gb,battery_mah,wired_w,display_in,refresh_hz,os,chipset,main_mp,selfie_mp,weight_g,has_5g,nfc,wireless,price_inr,price_usd,source_url
+Apple,iPhone 14,2022,6,128,3279,20,6.1,60,iOS 16,Apple A15 Bionic,12,12,172,yes,yes,yes,,799,https://en.wikipedia.org/wiki/IPhone_14
+Apple,iPhone 14 Plus,2022,6,128,,,6.7,60,iOS 16,Apple A15 Bionic,12,12,203,yes,yes,yes,,899,https://en.wikipedia.org/wiki/IPhone_14
+Apple,iPhone 15,2023,6,128,3349,20,6.1,60,iOS 17,Apple A16 Bionic,48,12,171,yes,yes,yes,,,https://en.wikipedia.org/wiki/IPhone_15
+Apple,iPhone 15 Plus,2023,6,128,4383,20,6.7,60,iOS 17,Apple A16 Bionic,48,12,201,yes,yes,yes,,,https://en.wikipedia.org/wiki/IPhone_15
+Apple,iPhone 15 Pro,2023,8,128,3274,20,6.1,120,iOS 17,Apple A17 Pro,48,12,187,yes,yes,yes,,,https://en.wikipedia.org/wiki/IPhone_15_Pro
+Apple,iPhone 15 Pro Max,2023,8,256,4422,20,6.7,120,iOS 17,Apple A17 Pro,48,12,221,yes,yes,yes,,,https://en.wikipedia.org/wiki/IPhone_15_Pro
+Apple,iPhone 16,2024,8,128,3561,,6.1,60,iOS 18,Apple A18,48,12,170,yes,yes,yes,,799,https://en.wikipedia.org/wiki/IPhone_16
+Apple,iPhone 16 Plus,2024,8,128,4674,,6.7,60,iOS 18,Apple A18,48,12,199,yes,yes,yes,,899,https://en.wikipedia.org/wiki/IPhone_16
+Apple,iPhone 16 Pro,2024,8,128,3582,,6.3,120,iOS 18,Apple A18 Pro,48,12,199,yes,yes,yes,,999,https://en.wikipedia.org/wiki/IPhone_16_Pro
+Apple,iPhone 16 Pro Max,2024,8,256,4685,,6.9,120,iOS 18,Apple A18 Pro,48,12,227,yes,yes,yes,,1199,https://en.wikipedia.org/wiki/IPhone_16_Pro
+Apple,iPhone 16e,2025,8,128,4005,,6.1,60,iOS 18.3,Apple A18,48,12,167,yes,yes,yes,,599,https://en.wikipedia.org/wiki/IPhone_16e
+Apple,iPhone 17,2025,8,256,3692,,6.3,120,iOS 26,Apple A19,48,18,177,yes,yes,yes,,799,https://en.wikipedia.org/wiki/IPhone_17
+Apple,iPhone 17 Pro,2025,12,256,,,6.3,120,iOS 26,Apple A19 Pro,48,18,206,yes,yes,yes,,,https://en.wikipedia.org/wiki/IPhone_17_Pro
+Apple,iPhone 17 Pro Max,2025,12,256,,,6.9,120,iOS 26,Apple A19 Pro,48,18,233,yes,yes,yes,,,https://en.wikipedia.org/wiki/IPhone_17_Pro
+Apple,iPhone Air,2025,12,256,3149,,6.5,120,iOS 26,Apple A19 Pro,48,18,165,yes,yes,yes,,999,https://en.wikipedia.org/wiki/IPhone_Air
+Apple,iPhone 17e,2026,8,256,4005,,6.1,,iOS 26.3,Apple A19,48,12,169,yes,,yes,,599,https://en.wikipedia.org/wiki/IPhone_17e
+Samsung,Galaxy S23,2023,8,128,3900,25,6.1,120,Android 13,Snapdragon 8 Gen 2 for Galaxy,50,12,168,yes,,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S23
+Samsung,Galaxy S23 Ultra,2023,8,256,5000,45,6.8,120,Android 13,Snapdragon 8 Gen 2 for Galaxy,200,12,233,yes,,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S23
+Samsung,Galaxy S24,2024,8,128,4000,25,6.2,120,Android 14,Snapdragon 8 Gen 3 or Exynos 2400 (by region),50,12,,yes,yes,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S24
+Samsung,Galaxy S24+,2024,12,256,4900,45,6.7,120,Android 14,Snapdragon 8 Gen 3 or Exynos 2400 (by region),50,12,,yes,,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S24
+Samsung,Galaxy S24 Ultra,2024,12,256,5000,45,6.8,120,Android 14,Snapdragon 8 Gen 3,200,12,,yes,,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S24
+Samsung,Galaxy S25,2025,12,128,4000,25,6.2,120,Android 15,Snapdragon 8 Elite for Galaxy,50,12,162,yes,yes,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S25
+Samsung,Galaxy S25+,2025,12,256,4900,45,6.7,120,Android 15,Snapdragon 8 Elite for Galaxy,50,12,190,yes,yes,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S25
+Samsung,Galaxy S25 Ultra,2025,12,256,5000,45,6.9,120,Android 15,Snapdragon 8 Elite for Galaxy,200,12,218,yes,yes,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S25
+Samsung,Galaxy S25 Edge,2025,12,256,3900,25,6.7,120,Android 15,Snapdragon 8 Elite for Galaxy,200,12,163,yes,yes,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S25
+Samsung,Galaxy S25 FE,2025,,128,4900,45,6.7,120,Android 16,Exynos 2400,50,12,190,,,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S25
+Samsung,Galaxy S26,2026,12,256,4300,25,6.3,120,Android 16,Snapdragon 8 Elite Gen 5 or Exynos 2600 (by region),50,12,167,yes,yes,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S26
+Samsung,Galaxy S26+,2026,12,256,4900,45,6.7,120,Android 16,Snapdragon 8 Elite Gen 5 or Exynos 2600 (by region),50,12,190,yes,yes,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S26
+Samsung,Galaxy S26 Ultra,2026,12,256,5000,60,6.9,120,Android 16,Snapdragon 8 Elite Gen 5,200,12,214,yes,yes,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_S26
+Samsung,Galaxy Z Fold6,2024,12,256,4400,25,7.6,120,Android 14,Snapdragon 8 Gen 3 for Galaxy,50,10,239,yes,,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_Z_Fold_6
+Samsung,Galaxy Z Flip6,2024,12,256,4000,25,6.7,120,Android 14,Snapdragon 8 Gen 3,50,10,,yes,,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_Z_Flip_6
+Samsung,Galaxy Z Fold7,2025,12,256,4400,25,8.0,120,Android 16,Snapdragon 8 Elite,200,10,215,yes,,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_Z_Fold_7
+Samsung,Galaxy Z Flip7,2025,12,256,4300,25,6.9,120,Android 16,Exynos 2500,50,10,188,yes,,yes,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_Z_Flip_7
+Samsung,Galaxy A35,2024,6,128,5000,25,6.6,120,Android 14,Exynos 1380,50,13,,yes,,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_A35_5G
+Samsung,Galaxy A55,2024,8,128,5000,25,6.6,120,Android 14,Exynos 1480,50,32,213,yes,,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_A55_5G
+Samsung,Galaxy A36,2025,6,128,5000,45,6.7,120,Android 15,Snapdragon 6 Gen 3,50,12,195,yes,,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_A36_5G
+Samsung,Galaxy A56,2025,8,128,5000,45,6.7,120,Android 15,Exynos 1580,50,12,198,yes,yes,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_A56_5G
+Google,Pixel 8,2023,8,128,4575,27,6.2,120,Android 14,Google Tensor G3,50,10.5,187,yes,yes,yes,,,https://en.wikipedia.org/wiki/Pixel_8
+Google,Pixel 8 Pro,2023,12,128,5050,30,6.7,120,Android 14,Google Tensor G3,50,10.5,213,yes,yes,yes,,,https://en.wikipedia.org/wiki/Pixel_8
+Google,Pixel 8a,2024,8,128,4492,18,6.1,120,Android 14,Google Tensor G3,64,13,188,yes,yes,yes,,,https://en.wikipedia.org/wiki/Pixel_8a
+Google,Pixel 9,2024,12,128,4700,27,6.3,120,Android 14,Google Tensor G4,50,10.5,198,yes,yes,yes,,,https://en.wikipedia.org/wiki/Pixel_9
+Google,Pixel 9 Pro,2024,16,128,4700,27,6.3,120,Android 14,Google Tensor G4,50,42,199,yes,yes,yes,,,https://en.wikipedia.org/wiki/Pixel_9
+Google,Pixel 9 Pro XL,2024,16,128,5060,37,6.7,120,Android 14,Google Tensor G4,50,42,221,yes,yes,yes,,,https://en.wikipedia.org/wiki/Pixel_9
+Google,Pixel 9a,2025,8,128,5100,23,6.3,120,Android 15,Google Tensor G4,48,13,185.9,,,yes,,499,https://en.wikipedia.org/wiki/Pixel_9a
+Google,Pixel 10,2025,12,128,4970,,6.3,120,Android 16,Google Tensor G5,48,10.5,,yes,yes,yes,,799,https://store.google.com/product/pixel_10_specs
+Google,Pixel 10 Pro,2025,16,128,4870,,6.3,120,Android 16,Google Tensor G5,50,42,,yes,yes,yes,,999,https://store.google.com/product/pixel_10_pro_specs
+Google,Pixel 10 Pro XL,2025,16,256,5200,,6.8,120,Android 16,Google Tensor G5,50,42,,yes,yes,yes,,,https://store.google.com/product/pixel_10_pro_specs
+OnePlus,12,2023,12,256,5400,100,6.82,120,Android 14,Qualcomm Snapdragon 8 Gen 3,50,32,220,yes,yes,,,,https://en.wikipedia.org/wiki/OnePlus_12
+OnePlus,12R,2024,8,128,5500,100,6.78,120,Android 14,Qualcomm Snapdragon 8 Gen 2,50,16,207,yes,yes,,,,https://en.wikipedia.org/wiki/OnePlus_12R
+OnePlus,13,2024,12,256,6000,100,6.82,120,Android 15,Qualcomm Snapdragon 8 Elite,50,32,,yes,yes,yes,,,https://en.wikipedia.org/wiki/OnePlus_13
+OnePlus,13R,2025,12,256,6000,80,6.78,120,Android 15,Qualcomm Snapdragon 8 Gen 3,50,16,206,yes,,no,,,https://en.wikipedia.org/wiki/OnePlus_13R
+OnePlus,15,2025,,,7300,120,6.78,165,,Snapdragon 8 Elite Gen 5,,,,,,,,,https://en.wikipedia.org/wiki/List_of_OnePlus_products
+OnePlus,Nord 4,2024,,,5500,100,6.74,120,,Snapdragon 7+ Gen 3,,,,,,,,,https://en.wikipedia.org/wiki/List_of_OnePlus_products
+OnePlus,Nord 5,2025,,,6800,80,6.83,144,,Snapdragon 8s Gen 3,50,50,,,,,,,https://en.wikipedia.org/wiki/List_of_OnePlus_products
+Nothing,Phone (2),2023,8,128,4700,45,6.7,120,Nothing OS 2.0 (Android 13),Qualcomm Snapdragon 8+ Gen 1,50,32,201.2,yes,,yes,,,https://en.wikipedia.org/wiki/Nothing_Phone_(2)
+Nothing,Phone (2a),2024,8,128,5000,45,6.7,120,Android 14 with Nothing OS 2.5,MediaTek Dimensity 7200 Pro,50,32,190,,,,,,https://en.wikipedia.org/wiki/Nothing_Phone_(2a)
+Nothing,Phone (3),2025,12,256,5150,65,6.67,120,Android 15 with Nothing OS 3.5,Qualcomm Snapdragon 8s Gen 4,50,50,218,yes,yes,yes,,799,https://en.wikipedia.org/wiki/Nothing_Phone_3
+Nothing,Phone (3a),2025,8,128,5000,50,6.77,120,Android 16 with Nothing OS 4.0,Qualcomm Snapdragon 7s Gen 3,50,32,201,,yes,,,,https://en.wikipedia.org/wiki/Nothing_Phone_3a/3a_Pro
+Nothing,Phone (3a) Pro,2025,12,256,5000,50,6.77,120,Android 16 with Nothing OS 4.0,Qualcomm Snapdragon 7s Gen 3,50,50,211,,yes,,,,https://en.wikipedia.org/wiki/Nothing_Phone_3a/3a_Pro
+Nothing,CMF Phone 1,2024,8,128,5000,33,6.67,120,Nothing OS 2.6 (Android 14),MediaTek Dimensity 7300 5G,50,16,197,yes,no,no,,,https://checkout-eu.nothing.tech/pages/cmf-phone-1
+Xiaomi,14,2023,8,256,4610,90,6.36,120,Xiaomi HyperOS (Android 14),Qualcomm Snapdragon 8 Gen 3,50,32,,yes,,yes,,,https://en.wikipedia.org/wiki/Xiaomi_14
+Xiaomi,14 Ultra,2024,12,256,5000,90,6.73,120,Xiaomi HyperOS (Android 14),Qualcomm Snapdragon 8 Gen 3,50,32,,yes,,yes,,,https://en.wikipedia.org/wiki/Xiaomi_14
+Xiaomi,15,2024,12,256,5240,90,6.36,120,HyperOS 2 (Android 15),Snapdragon 8 Elite,50,32,181,yes,yes,yes,,,https://en.wikipedia.org/wiki/Xiaomi_15
+Xiaomi,15 Ultra,2025,12,256,5410,90,6.73,120,HyperOS 2 (Android 15),Snapdragon 8 Elite,50,32,,yes,yes,yes,,,https://en.wikipedia.org/wiki/Xiaomi_15
+Xiaomi,17,2025,12,256,,100,6.3,120,Xiaomi HyperOS 3 (Android 16),Qualcomm Snapdragon 8 Elite Gen 5,50,50,191,yes,yes,yes,,,https://en.wikipedia.org/wiki/Xiaomi_17
+Xiaomi,17 Pro,2025,12,256,6300,100,6.3,120,Xiaomi HyperOS 3 (Android 16),Qualcomm Snapdragon 8 Elite Gen 5,50,50,192,yes,yes,yes,,,https://en.wikipedia.org/wiki/Xiaomi_17
+Redmi,Note 13 Pro+,2023,8,256,5000,120,6.67,120,MIUI 14,MediaTek Dimensity 7200-Ultra,200,16,204.5,yes,yes,,,,https://www.mi.com/global/product/redmi-note-13-pro-plus-5g/specs/
+Redmi,Note 14 Pro+,,8,256,5110,120,6.67,120,Xiaomi HyperOS,Snapdragon 7s Gen 3,200,20,,yes,yes,,,,https://www.mi.com/global/product/redmi-note-14-pro-plus-5g/specs/
+Poco,F6,,8,256,5000,90,6.67,120,Xiaomi HyperOS,Snapdragon 8s Gen 3,50,20,179,yes,yes,,,,https://www.mi.com/global/product/poco-f6/specs/
+Poco,F7,,12,256,6500,90,6.83,120,Xiaomi HyperOS 2,Snapdragon 8s Gen 4,50,20,215.7,yes,yes,,,,https://www.mi.com/global/product/poco-f7/specs/
+Motorola,Razr 60 Ultra,,,,4700,68,7.0,165,,Snapdragon 8 Elite,50,,,,,yes,,,https://www.motorola.com/we/en/p/phones/razr/razr-60-ultra/pmipmhn42m1
+Motorola,Edge 60 Pro,2025,8,256,6000,90,6.7,120,Android 15,MediaTek Dimensity 8350 Extreme,50,50,186,yes,yes,yes,,,https://en.wikipedia.org/wiki/Motorola_Edge_60_Pro
+Motorola,Moto G96,,,,5500,33,6.67,144,Android 15,Snapdragon 7s Gen 2,,,,yes,,,,,https://www.motorola.com/np/en/p/phones/moto-g/96-5g/pmipmhw42m3
+Vivo,X200,2024,12,256,5800,90,6.67,120,Android 15 (Funtouch OS 15),MediaTek Dimensity 9400,50,32,,yes,yes,,,,https://en.wikipedia.org/wiki/Vivo_X200
+Vivo,X200 Pro,2024,,,6000,90,6.78,120,Funtouch OS 15,MediaTek Dimensity 9400,50,,,,,,,,https://www.vivo.com/in/products/x200-pro
+Vivo,X300 Pro,2025,,,6510,90,6.78,120,OriginOS 6,MediaTek Dimensity 9500 with vivo V3+ chip,50,50,,,,,,,https://www.vivo.com/in/products/x300-pro
+Vivo,V40,2024,8,128,5500,80,6.78,120,Android 14 (Funtouch OS 14),Qualcomm Snapdragon 7 Gen 3,50,50,,yes,,,,,https://en.wikipedia.org/wiki/Vivo_V40
+Vivo,V50,2025,8,128,6000,90,6.77,120,Funtouch OS 15 (Android 15),Qualcomm Snapdragon 7 Gen 3,50,50,,yes,,,34999,,https://en.wikipedia.org/wiki/Vivo_V50
+Vivo,V60,2025,,,6500,90,,120,,Qualcomm Snapdragon 7 Gen 4,50,50,,,,,,,https://www.vivo.com/in/products/v60
+Oppo,Find X8,2024,,,5630,80,6.59,120,ColorOS 15 (Android 15),MediaTek Dimensity 9400,50,32,193,yes,yes,yes,,,https://en.wikipedia.org/wiki/Oppo_Find_X8
+Oppo,Find X8 Pro,2024,,,5910,80,6.78,120,ColorOS 15 (Android 15),MediaTek Dimensity 9400,50,32,215,yes,yes,yes,,,https://en.wikipedia.org/wiki/Oppo_Find_X8
+Oppo,Reno 14 Pro,2025,12,256,6200,80,,120,ColorOS 15 (Android 15),MediaTek Dimensity 8450,50,50,,yes,,yes,49999,,https://en.wikipedia.org/wiki/Oppo_Reno14
+Oppo,Reno 13 Pro,2024,12,256,5800,,,120,ColorOS 15,MediaTek Dimensity 8350,50,50,195,yes,yes,,,,https://www.oppo.com/in/smartphones/series-reno/reno13-pro/specs/
+Realme,GT 7 Pro,2024,12,256,6500,120,6.78,120,realme UI 6.0 (Android 15),Qualcomm Snapdragon 8 Elite,50,16,222.8,yes,yes,,,,https://www.realme.com/global/realme-gt-7-pro/specs
+Realme,14 Pro+,2025,8,128,6000,80,6.83,120,realme UI 6.0 (Android 15),Qualcomm Snapdragon 7s Gen 3,50,32,,yes,yes,,,,https://www.realme.com/global/realme-14-pro-plus-5g/specs
+Realme,15 Pro,2025,8,128,7000,80,6.8,144,realme UI 6.0 (Android 15),Qualcomm Snapdragon 7 Gen 4,50,50,187,yes,,,,,https://www.realme.com/in/realme-15-pro-5g/specs
+iQOO,13,2024,,,6150,120,6.82,144,Android 15 with OriginOS 5,Qualcomm Snapdragon 8 Elite,50,16,,yes,yes,,,,https://community.iqoo.com/in/thread/74732
+iQOO,Neo 10,2024,,,6100,120,6.78,,OriginOS 5 (Android 15),Qualcomm Snapdragon 8 Gen 3,50,16,,,yes,,,,https://en.wikipedia.org/wiki/IQOO_Neo_10
+Honor,Magic 7 Pro,2024,,,5850,100,6.8,120,MagicOS 9.0,Snapdragon 8 Elite,50,50,,,,yes,,,https://www.honor.com/global/phones/honor-magic7-pro/
+Huawei,Pura 70 Ultra,2024,,,5200,100,,120,,Kirin 9010,50,13,226,,,yes,,,https://en.wikipedia.org/wiki/Huawei_Pura_70
+Huawei,Pura 80 Pro,2025,12,512,5170,100,6.8,120,EMUI 15.0,,50,13,219,,yes,yes,,,https://consumer.huawei.com/en/phones/pura80-pro/specs/
+Sony,Xperia 1 VI,2024,12,256,5000,30,6.5,120,Android 14,Qualcomm Snapdragon 8 Gen 3,48,12,192,yes,yes,yes,,,https://en.wikipedia.org/wiki/Sony_Xperia_1_VI
+Sony,Xperia 1 VII,2025,12,256,5000,30,6.5,120,Android 15,Qualcomm Snapdragon 8 Elite,48,12,192,yes,yes,yes,,,https://en.wikipedia.org/wiki/Sony_Xperia_1_VII
+Honor,200 Pro,2024,12,512,5200,100,6.78,120,MagicOS 8.0,Snapdragon 8s Gen 3,50,50,,yes,yes,yes,,,https://www.honor.com/global/phones/honor-200-pro/
+Ai+,Nova 5G,2025,,,,,,120,Android 15,,,,196,,no,,,,https://www.91mobiles.com/ai-nova-price-in-india?ty=specs
+Ai+,Pulse 1,2025,,,,,,90,Android 15,,,,193,no,no,,,,https://www.91mobiles.com/ai-pulse-price-in-india?ty=specs
+Ai+,Pulse 2,2026,,,,18,,120,Android 16,,,,193,no,,,,,https://www.91mobiles.com/ai-plus-plus-pulse-2-price-in-india
+Apple,iPhone 11,,,,,18,,60,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+XI/vs/Apple/iPhone+11+Pro+Max.html
+Apple,iPhone 11 Pro,,,,,18,,,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+11+Pro/vs/Apple/iPhone+11+Pro+Max.html
+Apple,iPhone 11 Pro Max,,,,,18,,60,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+11+Pro/vs/Apple/iPhone+11+Pro+Max.html
+Apple,iPhone 12,,,,,20,,60,,,,,,yes,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+12/vs/Apple/iPhone+12+Pro.html
+Apple,iPhone 12 Pro,,,,,20,,60,,,,,,yes,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+12/vs/Apple/iPhone+12+Pro.html
+Apple,iPhone 12 Pro Max,,,,,20,,60,,,,,,yes,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+12+Pro+Max/vs/Apple/iPhone+12+mini.html
+Apple,iPhone 12 mini,,,,,20,,60,,,,,,yes,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+12+Pro+Max/vs/Apple/iPhone+12+mini.html
+Apple,iPhone 13,,,,,20,,60,,,,,,yes,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+13/vs/Apple/iPhone+13+Pro.html
+Apple,iPhone 13 Pro,,,,,20,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+13/vs/Apple/iPhone+13+Pro.html
+Apple,iPhone 13 Pro Max,,,,,20,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+13+Pro+Max/vs/Apple/iPhone+13+mini.html
+Apple,iPhone 13 mini,,,,,20,,60,,,,,,yes,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+13+Pro+Max/vs/Apple/iPhone+13+mini.html
+Apple,iPhone 14 Pro,,,,,20,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+14+Pro/vs/Apple/iPhone+14+Pro+Max.html
+Apple,iPhone 14 Pro Max,,,,,20,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+14+Pro/vs/Apple/iPhone+14+Pro+Max.html
+Apple,iPhone X,,,,,,,,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+X/vs/Apple/iPhone+XR.html
+Apple,iPhone XR,,,,,,,60,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+X/vs/Apple/iPhone+XR.html
+Apple,iPhone XS,,,,,,,,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+XS/vs/Apple/iPhone+XS+Max.html
+Apple,iPhone XS Max,,,,,,,,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Apple/iPhone+XS/vs/Apple/iPhone+XS+Max.html
+Google,Pixel 10a,2026,,,,45,,120,,,,,183,yes,yes,,,,https://www.91mobiles.com/google-pixel-10a-price-in-india?ty=specs
+Google,Pixel 3a,,,,,18,,,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Google/Pixel+3a/vs/Google/Pixel+3a+XL.html
+Google,Pixel 3a XL,,,,,,,,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Google/Pixel+3a/vs/Google/Pixel+3a+XL.html
+Google,Pixel 4,,,,,,,90,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Google/Pixel+4/vs/Google/Pixel+4+XL.html
+Google,Pixel 4 XL,,,,,,,90,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Google/Pixel+4/vs/Google/Pixel+4+XL.html
+Google,Pixel 4a,,,,,18,,60,,,,,,no,yes,,,,https://www.91mobiles.com/compare/Google/Pixel+4a/vs/Google/Pixel+4+XL.html
+Google,Pixel 4a 5G,,,,,18,,,,,,,,,yes,,,,https://en.wikipedia.org/wiki/Pixel_4a
+Google,Pixel 5,,,,,18,,90,,,,,,yes,yes,,,,https://en.wikipedia.org/wiki/Pixel_5
+Google,Pixel 5a,,,,,18,,60,,,,,,yes,yes,,,,https://www.phonemore.com/specs/google/pixel-5a/g1f8f/
+Google,Pixel 6,,,,,21,,90,,,,,,yes,yes,,,,https://en.wikipedia.org/wiki/Pixel_6
+Google,Pixel 6 Pro,,,,,23,,120,,,,,,yes,yes,,,,https://en.wikipedia.org/wiki/Pixel_6
+Google,Pixel 6a,,,,,18,,60,,,,,,yes,yes,,,,"https://www.phonearena.com/phones/compare/Google-Pixel-6a,Blackview-Oscal-C70/phones/11859,12140"
+Google,Pixel 7,,,,,20,,90,,,,,,yes,yes,,,,https://en.wikipedia.org/wiki/Pixel_7
+Google,Pixel 7 Pro,,,,,23,,120,,,,,,yes,yes,,,,https://en.wikipedia.org/wiki/Pixel_7
+Google,Pixel 7a,,,,,18,,90,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/google-pixel-7a-ppd11d5bxfdy
+Google,Pixel 9 Pro Fold,,,,,,,120,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/google-pixel-9-pro-fold-ppd1qj44jmo8
+Honor,10X Lite,,,,,22.5,,,,,,,,no,yes,,,,https://www.91mobiles.com/honor-10x-lite-price-in-india?ty=specs
+Honor,30,,,,,40,,,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-30-price-in-india?ty=specs
+Honor,30 Pro,,,,,40,,90,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-30-pro-price-in-india?ty=specs
+Honor,30 Pro+,,,,,40,,90,,,,,,yes,yes,,,,https://en.wikipedia.org/wiki/Honor_30
+Honor,30S,,,,,40,,,,,,,,yes,no,,,,https://www.91mobiles.com/honor-30s-price-in-india?ty=specs
+Honor,50,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-50-price-in-india?ty=specs
+Honor,50 Pro,,,,,100,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-50-pro-price-in-india?ty=specs
+Honor,50 SE,,,,,66,,120,,,,,,yes,yes,,,,"https://www.phonearena.com/phones/compare/Honor-50,Honor-50-SE/phones/11758,11759"
+Honor,60,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-60-5g-price-in-india?ty=specs
+Honor,60 Pro,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-60-pro-5g-price-in-india?ty=specs
+Honor,60 SE,,,,,66,,120,,,,,,yes,no,,,,https://www.smart-gsm.com/moviles/honor-60-se
+Honor,70,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-70-5g-price-in-india?ty=specs
+Honor,70 Pro,,,,,100,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-70-pro-5g-price-in-india?ty=specs
+Honor,70 Pro+,,,,,100,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-70-pro-plus-5g-price-in-india?ty=specs
+Honor,80,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-80-price-in-india?ty=specs
+Honor,80 Pro,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-80-pro-price-in-india?ty=specs
+Honor,80 SE,,,,,66,,120,,,,,,yes,no,,,,https://www.91mobiles.com/honor-80-se-price-in-india?ty=specs
+Honor,90,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-90-price-in-india?ty=specs
+Honor,90 Pro,,,,,90,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-90-pro-price-in-india?ty=specs
+Honor,90 SE,,,,,22.5,,90,,,,,,yes,yes,,,,https://phoneaqua.com/honor-90-se-8612.php
+Honor,9X Lite,,,,,,,,,,,,,no,,,,,https://www.91mobiles.com/honor-9x-lite-price-in-india
+Honor,Magic V,,,,,66,,,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-v-5g-price-in-india?ty=specs
+Honor,Magic V2,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-v2-price-in-india
+Honor,Magic V3,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-v3-price-in-india?ty=specs
+Honor,Magic Vs,,,,,66,,,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-vs-price-in-india?ty=specs
+Honor,Magic3,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-3-5g-price-in-india?ty=specs
+Honor,Magic3 Pro,,,,,66,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/honor-magic-3-pro-5g-ppd13qbcy2el
+Honor,Magic3 Pro+,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-3-pro-plus-5g-price-in-india
+Honor,Magic4,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-4-5g-price-in-india
+Honor,Magic4 Pro,,,,,100,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-4-pro-5g-price-in-india?ty=specs
+Honor,Magic4 Ultimate,,,,,100,,120,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/honor-magic4-ultimate-5g-ppd12ml6y8u3
+Honor,Magic5,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-5-price-in-india?ty=specs
+Honor,Magic5 Pro,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-5-pro-price-in-india?ty=specs
+Honor,Magic5 Ultimate,,,,,66,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/honor-magic-5-ultimate-ppd1wmgkhf5t
+Honor,Magic6,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-6-price-in-india?ty=specs
+Honor,Magic6 Pro,,,,,80,,120,,,,,,yes,yes,,,,https://en.wikipedia.org/wiki/Honor_Magic_6_Pro
+Honor,Magic6 Ultimate,,,,,80,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/honor_magic_6_ultimate_vs_honor_magic_6-cpd1ntmox1j5_pd10oqpo1fc.php
+Honor,Magic7,,,,,100,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-magic-7-price-in-india?ty=specs
+Honor,Play 4,,,,,22.5,,,,,,,,yes,no,,,,https://www.91mobiles.com/honor-play-4-price-in-india?ty=specs
+Honor,Play 4 Pro,,,,,,,,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-play-4-pro-price-in-india?ty=specs
+Honor,Play 5,,,,,66,,,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-play-5-price-in-india?ty=specs
+Honor,Play 5T,,,,,22.5,,,,,,,,no,,,,,https://www.91mobiles.com/honor-play-5t-price-in-india?ty=specs
+Huawei,Mate 50 Pro,,,,,66,,120,HarmonyOS,,,,,no,yes,,,,https://www.91mobiles.com/huawei-mate-50-pro-price-in-india
+Honor,Play 6T,,,,,22.5,,90,,,,,,yes,,,,,https://www.91mobiles.com/honor-play-6t-price-in-india?ty=specs
+Honor,Play 7T,,,,,22.5,,90,,,,,,yes,no,,,,https://www.91mobiles.com/honor-play-7t-price-in-india?ty=specs
+Honor,Play 8T,,,,,35,,90,,,,,,yes,no,,,,https://www.91mobiles.com/honor-play-8t-price-in-india
+Huawei,Mate 50,,,,,66,,90,HarmonyOS,,,,,no,yes,,,,https://www.91mobiles.com/huawei-mate-50-price-in-india?ty=specs
+Huawei,Mate 40E,,,,,40,,90,Android 10,,,,,yes,yes,,,,https://www.91mobiles.com/huawei-mate-40e-price-in-india?ty=specs
+Honor,Play 9T,,,,,35,,120,,,,,,yes,no,,,,https://www.91mobiles.com/honor-play-9t-price-in-india?ty=specs
+Honor,V40,,,,,66,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-v40-price-in-india?ty=specs
+Honor,X10,,,,,22.5,,90,,,,,,yes,no,,,,https://www.91mobiles.com/honor-x10-price-in-india?ty=specs
+Honor,X10 Max,,,,,22.5,,,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-x10-max-price-in-india?ty=specs
+Honor,X20,,,,,66,,,,,,,,yes,no,,,,https://www.91mobiles.com/honor-x20-5g-price-in-india?ty=specs
+Honor,X20 SE,,,,,22.5,,,,,,,,yes,no,,,,https://www.91mobiles.com/honor-x20-se-5g-price-in-india
+Honor,X30,,,,,66,,120,,,,,,yes,no,,,,https://www.91mobiles.com/honor-x30-price-in-india?ty=specs
+Honor,X30 Max,,,,,22.5,,,,,,,,yes,yes,,,,https://www.91mobiles.com/honor-x30-max-price-in-india?ty=specs
+Honor,X30i,,,,,22.5,,90,,,,,,yes,no,,,,https://www.91mobiles.com/honor-x30i-price-in-india
+Honor,X40,,,,,40,,120,,,,,,yes,,,,,https://www.91mobiles.com/honor-x40-price-in-india?ty=specs
+Honor,X40i,,,,,44,,,,,,,,yes,no,,,,https://www.91mobiles.com/honor-x40i-price-in-india?ty=specs
+Honor,X50,,,,,35,,120,,,,,,yes,no,,,,https://www.91mobiles.com/honor-x50-price-in-india?ty=specs
+Honor,X50i,,,,,35,,90,,,,,,yes,,,,,https://www.91mobiles.com/honor-x50i-price-in-india?ty=specs
+Honor,X60,,,,,35,,120,,,,,,yes,no,,,,https://www.91mobiles.com/honor-x60-price-in-india?ty=specs
+Honor,X60i,,,,,35,,90,,,,,,yes,,,,,https://www.91mobiles.com/honor-x60i-price-in-india?ty=specs
+Huawei,Mate 60,2023,,,4750,66,6.69,120,HarmonyOS 4,,50,13,209,yes,yes,yes,,,https://www.smartprix.com/mobiles/huawei-mate-60-ppd10jngdqy4
+Huawei,Mate 60 Pro,2023,,,5000,88,6.82,120,HarmonyOS 4,Kirin 9000S,50,13,225,yes,yes,yes,,,https://www.smartprix.com/mobiles/huawei-mate-60-pro-ppd1kw6ev8u3
+Huawei,Mate 70,2024,,,5300,66,6.7,120,HarmonyOS 4.3,,50,13,203,yes,yes,yes,,,https://smartprix.com/mobiles/huawei-mate-70-ppd10r9x9355
+Huawei,Mate 70 Pro,2024,,,5500,100,6.9,120,HarmonyOS 4.3,,50,13,221,yes,yes,yes,,,https://us.smartprix.com/mobiles/huawei-mate-70-pro-ppd16r8o180b
+Huawei,Mate X2,2021,,,4500,55,8,90,Android 10,Kirin 9000,50,16,295,yes,yes,no,,,https://www.smartprix.com/mobiles/huawei-mate-x2-ppd1nk66wkqc
+Huawei,Mate X3,2023,,,4800,66,7.85,120,HarmonyOS 3.1,Snapdragon 8+ Gen 1,50,8,239,,yes,yes,,,https://www.smartprix.com/mobiles/huawei-mate-x3-5g-ppd10zoyqwji
+Huawei,Mate X6,2024,,,5110,66,7.93,120,HarmonyOS 4.3,,50,8,239,yes,yes,yes,,,https://us.smartprix.com/mobiles/huawei-mate-x6-ppd1sdirdggm
+Huawei,Mate Xs 2,2022,,,4600,66,7.8,120,HarmonyOS 2.0,Snapdragon 888,50,10.7,255,,yes,,,,https://www.smartprix.com/mobiles/huawei-mate-xs-2-ppd1kg4fakbx
+Huawei,Mate 60 Pro+,,,,,88,,120,HarmonyOS 4.0,,,,,yes,yes,,,,https://www.naijatechguide.com/huawei-mate-60-pro-plus.html
+Huawei,Nova 10,,,,,66,,120,,,,,,no,yes,,,,https://phonearena.com/phones/Huawei-nova-10_id12048
+Huawei,Nova 10 Pro,,,,,100,,120,HarmonyOS 2,,,,,no,yes,,,,https://www.phonearena.com/phones/Huawei-Nova-10-Pro_id12010
+Huawei,Nova 11,,,,,66,,120,HarmonyOS,,,,,no,yes,,,,https://www.91mobiles.com/huawei-nova-11-price-in-india?ty=specs
+Huawei,Nova 11 Pro,,,,,100,,120,HarmonyOS,,,,,no,yes,,,,https://www.91mobiles.com/huawei-nova-11-pro-price-in-india?ty=specs
+Huawei,Nova 11 Ultra,,,,,100,,120,HarmonyOS,,,,,no,yes,,,,https://www.91mobiles.com/huawei-nova-11-ultra-price-in-india?ty=specs
+Huawei,Nova 12,,,,,,,120,HarmonyOS,,,,,no,yes,,,,https://www.91mobiles.com/huawei-nova-12-price-in-india?ty=specs
+Huawei,Nova 12 Pro,,,,,100,,120,HarmonyOS,,,,,yes,yes,,,,https://www.91mobiles.com/huawei-nova-12-pro-price-in-india?ty=specs
+Huawei,Nova 9,,,,,66,,120,HarmonyOS,,,,,no,yes,,,,https://www.91mobiles.com/huawei-nova-9-price-in-india?ty=specs
+Huawei,Nova 9 Pro,,,,,100,,120,HarmonyOS,,,,,no,yes,,,,https://www.91mobiles.com/huawei-nova-9-pro-price-in-india?ty=specs
+Huawei,P50,,,,,66,,90,HarmonyOS,,,,,no,yes,,,,https://www.91mobiles.com/huawei-p50-price-in-india?ty=specs
+Huawei,P50 Pro,,,,,66,,120,HarmonyOS,,,,,no,yes,,,,https://www.91mobiles.com/huawei-p50-pro-price-in-india?ty=specs
+Huawei,P50 Pocket,,,,,40,,120,HarmonyOS 2.0,,,,,no,yes,,,,https://us.smartprix.com/mobiles/huawei-p50-pocket-ppd1hqsnurty
+Huawei,P60,,,,,66,,120,HarmonyOS 3.1,,,,,no,yes,,,,https://www.smartprix.com/mobiles/huawei-p60-ppd1dzn2vxpn
+Infinix,GT 20 Pro,,,,,45,,144,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/infinix-gt-20-pro-ppd1vmhyefpn
+Huawei,P50E,,,,,66,,90,HarmonyOS 2,,,,,no,yes,,,,https://www.smartprix.com/mobiles/huawei-p50e-ppd1yum0l8fm
+Huawei,P60 Art,,,,,80,,120,HarmonyOS 3.1,,,,,no,yes,,,,https://www.smartprix.com/mobiles/huawei-p60-art-ppd15mke8p6i
+Huawei,P60 Pro,,,,,88,,120,HarmonyOS 3.1,,,,,no,yes,,,,https://us.smartprix.com/mobiles/huawei-p60-pro-ppd1whz0whlt
+Huawei,Pura 70,,,,,66,,120,HarmonyOS 4.2,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/huawei-p70-ppd14wee0097
+Huawei,Pura 70 Pro,,,,,100,,120,HarmonyOS 4.2,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/huawei-p70-pro-ppd1s51ns903
+Infinix,GT 10 Pro,,,,,45,,120,,,,,,yes,,,,,https://www.smartprix.com/mobiles/infinix-gt-10-pro-ppd1h1tc57ng
+Infinix,HOT 60i 5G,2025,,,,45,,120,,,,,199,,,,,,https://www.smartprix.com/mobiles/infinix-hot-60i-5g-ppd19efnq7ln
+Infinix,GT 30 5G+,2025,,,,45,,144,,,,,187,,yes,,,,https://telset.id/harga-spesifikasi/infinix/infinix-gt-30-5g-plus-8gb-256gb
+Infinix,GT 30 Pro 5G+,2025,,,,45,,144,,,,,188,,yes,,,,https://www.91mobiles.com/infinix-gt-30-pro-price-in-india?ty=specs
+Infinix,Hot 10,,,,,,,,,,,,,no,no,,,,https://www.91mobiles.com/infinix-hot-10-price-in-india?ty=specs
+Infinix,Hot 10S,,,,,,,90,,,,,,no,no,,,,https://www.91mobiles.com/infinix-hot-10s-price-in-india?ty=specs
+Infinix,Hot 10 Lite,,,,,,,,,,,,,no,no,,,,https://www.91mobiles.com/infinix-hot-10-lite-price-in-india?ty=specs
+Infinix,Hot 10T,,,,,,,90,,,,,,no,,,,,https://www.91mobiles.com/infinix-hot-10t-price-in-india?ty=specs
+Infinix,Hot 11,,,,,,,,,,,,,no,no,,,,https://www.91mobiles.com/infinix-hot-11-price-in-india?ty=specs
+Infinix,Hot 11 Play,,,,,,,60,,,,,,no,no,,,,https://www.91mobiles.com/infinix-hot-11-play-price-in-india?ty=specs
+Infinix,Hot 12 Play,,,,,,,90,,,,,,no,no,,,,https://www.91mobiles.com/infinix-hot-12-play-price-in-india?ty=specs
+Infinix,Hot 12 Pro,,,,,18,,90,,,,,,no,no,,,,https://www.91mobiles.com/infinix-hot-12-pro-price-in-india?ty=specs
+Infinix,Hot 12i,,,,,,,,,,,,,no,no,,,,https://www.91mobiles.com/infinix-hot-12i-price-in-india?ty=specs
+Infinix,Hot 20 5G,,,,,18,,120,,,,,,,no,,,,https://www.91mobiles.com/infinix-hot-20-price-in-india
+Infinix,Hot 20s,,,,,18,,120,,,,,,no,no,,,,https://www.91mobiles.com/infinix-hot-20s-price-in-india?ty=specs
+Infinix,Hot 30 5G,,,,,18,,120,,,,,,,yes,,,,https://www.91mobiles.com/infinix-hot-30-5g-8gb-ram-price-in-india?ty=specs
+Infinix,Hot 40,,,128,,33,,90,,,,,,no,yes,,,,https://www.91mobiles.com/infinix-hot-40-price-in-india?ty=specs
+Infinix,Hot 50 5G,,,128,,18,,120,,,,,,,no,,,,https://www.91mobiles.com/infinix-hot-50-8gb-ram-price-in-india?ty=specs
+Infinix,Hot 50 Pro,,,128,,33,,120,,,,,,no,yes,,,,https://www.91mobiles.com/infinix-hot-50-pro-price-in-india?ty=specs
+Infinix,Hot 50i,,,128,,18,,120,,,,,,no,no,,,,https://www.91mobiles.com/infinix-hot-50i-price-in-india?ty=specs
+Infinix,Hot 40 Pro,,,256,,33,,120,,,,,,,,,,,https://smartprice.odoo.com/shop/infinix-hot-40-pro-1049
+Infinix,Note 40 5G,,,256,,33,,120,,,,,,,yes,,,,https://www.91mobiles.com/infinix-note-40-5g-price-in-india?ty=specs
+Infinix,Note 40X 5G,,,256,,18,,120,,,,,,,yes,,,,https://us.smartprix.com/mobiles/infinix-note-40x-5g-ppd1yp09ji1w
+Infinix,Note 40,,,256,,45,,120,,,,,,no,yes,,,,https://us.smartprix.com/mobiles/infinix-note-40-ppd1umtyz217
+Infinix,Note 40S,,,256,,33,,120,,,,,,no,yes,,,,https://www.91mobiles.com/infinix-note-40s-price-in-india?ty=specs
+Infinix,Note 50s 5G+,2025,,,,45,,144,,,,,180,,no,,,,https://www.91mobiles.com/infinix-note-50s-price-in-india?ty=specs
+Infinix,Note 50x 5G+,2025,,,,45,,120,,,,,195.4,,,,,,https://www.91mobiles.com/infinix-note-50x-price-in-india?ty=specs
+Infinix,Note 8,,,,,18,,,,,,,,no,,,,,https://www.mysmartprice.com/mobile/infinix-note-8-msp16820
+Infinix,Note 8i,,,,,18,,,,,,,,no,,,,,https://us.smartprix.com/mobiles/infinix-note-8i-ppd10ge9k9kx
+Infinix,SMART 10,2025,,,,15,,120,,,,,187,no,no,,,,https://www.91mobiles.com/infinix-smart-10-price-in-india?ty=specs
+Infinix,Smart 5,,,,,,,,,,,,,no,no,,,,https://www.91mobiles.com/infinix-smart-5-price-in-india?ty=specs
+Infinix,Smart HD,,,,,,,,,,,,,no,no,,,,https://www.mysmartprice.com/mobile/infinix-smart-hd-2021-msp17156
+Infinix,Zero 30,,,,,68,,144,,,,,,yes,yes,,,,https://www.91mobiles.com/infinix-zero-30-price-in-india?ty=specs
+Infinix,Zero 30 5G,,,,,68,,144,,,,,,,yes,,,,https://www.91mobiles.com/infinix-zero-30-price-in-india?ty=specs
+Infinix,Zero 40,,,,,45,,144,,,,,,yes,yes,,,,https://www.91mobiles.com/infinix-zero-40-price-in-india?ty=specs
+Infinix,Zero 40 5G,,,,,45,,144,,,,,,,yes,,,,https://www.91mobiles.com/infinix-zero-40-price-in-india?ty=specs
+Infinix,Zero 8,,,,,33,,90,,,,,,no,,,,,https://www.91mobiles.com/infinix-zero-8-price-in-india?ty=specs
+Infinix,Zero 8i,,,,,33,,90,,,,,,no,no,,,,https://www.91mobiles.com/infinix-zero-8i-price-in-india?ty=specs
+Infinix,Zero Flip,,,,,70,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/infinix-zero-flip-price-in-india?ty=specs
+iQOO,15 5G,2025,,,,100,,144,,Qualcomm Snapdragon 8 Elite Gen 5,,32,216.2,,yes,,,,https://www.91mobiles.com/iqoo-15-price-in-india?ty=specs
+iQOO,15R 5G,2026,,,,100,,144,,Qualcomm Snapdragon 8 Gen 5,,32,202,,yes,,,,https://www.91mobiles.com/iqoo-15r-price-in-india?ty=specs
+iQOO,Neo 10R 5G,2025,,,,80,,144,,Qualcomm Snapdragon 8s Gen 3,,32,196,,no,,,,https://www.91mobiles.com/iqoo-neo-10r-price-in-india?ty=specs
+iQOO,Z10 5G,2025,,,,90,,120,,Qualcomm Snapdragon 7s Gen 3,,32,199,,no,,,,https://www.91mobiles.com/iqoo-z10-price-in-india?ty=specs
+iQOO,Z10 Lite 5G,2025,,,,15,,90,,MediaTek Dimensity 6300,,5,202,,no,,,,https://www.91mobiles.com/iqoo-z10-lite-price-in-india?ty=specs
+iQOO,Z10R 5G,2025,,,,44,,120,,MediaTek Dimensity 7400,,32,183.5,,no,,,,https://www.91mobiles.com/iqoo-z10r-price-in-india?ty=specs
+iQOO,Z10X 5G,2025,,,,44,,120,,MediaTek Dimensity 7300,,8,204,,no,,,,https://www.91mobiles.com/iqoo-z10x-price-in-india?ty=specs
+iQOO,Z11x 5G,2026,,,,44,,120,,MediaTek Dimensity 7400 Turbo,,32,219,,,,,,https://www.91mobiles.com/iqoo-z11x-price-in-india?ty=specs
+iQOO,Z9s 5G,2024,,,,44,,120,,MediaTek Dimensity 7300,,16,180,,no,,,,https://www.91mobiles.com/iqoo-z9s-price-in-india?ty=specs
+Lava,Shark,2025,,,,18,,120,,,,8,,no,,,,,https://www.91mobiles.com/lava-shark-price-in-india?ty=specs
+Lava,Blaze AMOLED 2 5G,2025,,,,33,,120,,MediaTek Dimensity 7060,,8,174,,no,,,,https://www.91mobiles.com/lava-blaze-amoled-2-price-in-india?ty=specs
+Lenovo,A6 Note,,,,,10,,,Android 9,,,,,no,,,,,https://www.91mobiles.com/lenovo-a6-note-price-in-india
+Lenovo,K10 Note,,,,,,,,Android 9,,,,,no,,,,,https://www.91mobiles.com/lenovo-k10-note-128gb-price-in-india?ty=specs
+Lenovo,K10 Plus,,,,,18,,,Android 9,,,,,no,,,,,https://us.smartprix.com/mobiles/lenovo-k10-plus-ppd17vowql7j
+Lenovo,K13,,,,,,,,Android 10,,,,,no,,,,,https://www.smartprix.com/mobiles/lenovo-k13-ppd1pkkcqwcb
+Lenovo,Legion Y70,,,,,68,,144,Android 12,,,,,yes,yes,,,,https://www.fonearena.com/blog/372380/lenovo-legion-y70-price-specifications.html/amp
+Lenovo,Z5 Pro,,,,,,,,Android 8.1,,,,,no,yes,,,,https://www.ubergizmo.com/products/lang/en_us/devices/lenovo-z5-pro/
+Lenovo,Z6 Pro,,,,,27,,,Android 9,,,,,,,,,,https://www.fonearena.com/blog/280541/lenovo-z6-pro-price-specifications.html
+LG,K42,2021,,,,,,,Android 10,,,,182,no,,,,,https://www.91mobiles.com/lg-k42-price-in-india?ty=specs
+Motorola,Edge 50 Fusion,2024,,,,68,,144,,,,,174.9,yes,yes,,,,https://us.smartprix.com/mobiles/motorola-edge-50-fusion-ppd1hde87dg5
+Motorola,Edge 50,2024,,,,68,,120,,,,,180,yes,yes,,,,https://us.smartprix.com/mobiles/motorola-edge-50-ppd1fm2085of
+Motorola,Edge 50 Neo,,,,,68,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/motorola-moto-edge-50-neo-ppd1ydthejdh
+Motorola,Edge 50 Pro,,,,,125,,144,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/motorola-edge-50-pro-12gb-ram-256gb-ppd1f4g8gmn2
+Motorola,Edge 50 Ultra,,,,,125,,144,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/motorola-edge-50-ultra-ppd1mpaf7gat
+Motorola,Edge 60 5G,2025,,,,68,,120,,,,,181,,yes,,,,https://us.smartprix.com/mobiles/motorola-edge-60-5g-ppd1qz8oqize
+Motorola,Edge 60 Fusion 5G,2025,,,,68,,120,,,,,180.1,,,,,,https://us.smartprix.com/mobiles/motorola-edge-60-fusion-ppd1qc7i0he4
+Motorola,Edge 60 Stylus,2025,,,,68,,120,,,,,191,yes,yes,,,,https://us.smartprix.com/mobiles/motorola-edge-60-stylus-ppd1wurw9siu
+Motorola,Edge 70,2025,,,,68,,120,,,,,159,yes,yes,,,,https://us.smartprix.com/mobiles/motorola-edge-70-ppd1aqu10gr9
+Motorola,G34 5G,2023,,,,,,120,,,,,180,,,,,,https://us.smartprix.com/mobiles/motorola-moto-g34-5g-8gb-ram-128gb-ppd1l5wui1qr
+Motorola,G84 5G,,,,,30,,120,,,,,,,yes,,,,https://us.smartprix.com/mobiles/motorola-moto-g84-5g-ppd1znj5zzp1
+Motorola,G85 5G,2024,,,,33,,120,,,,,172,,,,,,https://us.smartprix.com/mobiles/motorola-moto-g85-5g-ppd1atwftc6s
+Motorola,G96 5G,2025,,,5500,33,6.67,144,Android 15,Qualcomm Snapdragon 7s Gen 2,50,32,178.1,yes,no,,,,https://www.91mobiles.com/moto-g96-5g-price-in-india?ty=specs
+Motorola,Moto E22,,,,4020,,6.5,90,Android 12,MediaTek Helio G37,16,5,172,no,,,,,https://www.91mobiles.com/moto-e22-price-in-india?ty=specs
+Motorola,Moto E22i,,,,4020,,6.5,90,Android 12,MediaTek Helio G37,16,5,169,no,no,,,,https://www.91mobiles.com/moto-e22i-price-in-india?ty=specs
+Motorola,Moto E32s,2022,,,5000,15,6.5,90,Android 12,MediaTek Helio G37,16,8,185,no,no,,,,https://www.91mobiles.com/moto-e32s-price-in-india?ty=specs
+Motorola,Moto G22,2022,,,,20,,90,,,,,,no,no,,,,https://www.91mobiles.com/moto-g22-price-in-india?ty=specs
+Motorola,Moto G55,,,,,30,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/moto-g55-price-in-india?ty=specs
+Motorola,Moto G75 5G,,,,,30,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/moto-g75-price-in-india?ty=specs
+Motorola,Moto G85,2024,,,,33,,120,,,,,,yes,no,,,,https://www.91mobiles.com/moto-g85-256gb-price-in-india?ty=specs
+Motorola,Moto S50,,,,,68,,120,,,,,,yes,,,,,https://us.smartprix.com/mobiles/motorola-moto-s50-ppd1o1eh1jc6
+Motorola,Moto X50 Ultra,,,,,125,,144,,,,,,yes,yes,,,,https://www.fonearena.com/blog/424030/moto-x50-ultra-price-features.html
+Motorola,Razr 50,2024,,,,33,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/motorola-razr-50-ppd1e3qc8ejh
+Motorola,Razr 50 Ultra,2024,,,,45,,165,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/motorola-razr-50-ultra-ppd18p9mo5gz
+Motorola,Razr 60,2025,,,,30,,120,,,,,188,yes,yes,,,,https://www.91mobiles.com/motorola-razr-60-price-in-india?ty=specs
+Motorola,S50 Neo,,,,,30,,120,,,,,,yes,yes,,,,https://www.mobiledokan.com/mobile/motorola-s50-neo-12gb-512gb/specification
+Motorola,Signature,2026,,,,90,,165,,,,,186,yes,yes,,,,https://www.91mobiles.com/motorola-signature-price-in-india?ty=specs
+Motorola,g05,2025,,,,18,,90,,,,,188.8,no,no,,,,https://www.91mobiles.com/moto-g05-price-in-india?ty=specs
+Motorola,g06 power,2025,,,,18,,120,,,,,220,no,no,,,,https://www.91mobiles.com/moto-g06-power-price-in-india?ty=specs
+Motorola,g22,2022,,,,20,,90,,,,,185,no,no,,,,https://www.91mobiles.com/moto-g22-price-in-india?ty=specs
+Motorola,g35 5G,2024,,,,18,,120,,,,,185,,no,,,,https://www.91mobiles.com/moto-g35-price-in-india?ty=specs
+Motorola,g45 5G,2024,,,,20,,120,,,,,183,,yes,,,,https://www.91mobiles.com/moto-g45-5g-price-in-india?ty=specs
+Motorola,g57 power 5G,2025,,,,30,,120,,,,,210.6,,no,,,,https://www.91mobiles.com/moto-g57-power-price-in-india?ty=specs
+Motorola,g67 power 5G,2025,,,,30,,120,,,,,210,,no,,,,https://www.91mobiles.com/moto-g67-power-price-in-india?ty=specs
+Motorola,g72,2022,,,,33,,120,,,,,166,no,yes,,,,https://www.91mobiles.com/index.php/moto-g72-price-in-india
+Motorola,g82 5G,2022,,,,30,,120,,,,,173,,yes,,,,https://www.91mobiles.com/moto-g82-price-in-india?ty=specs
+Nokia,C32,,,,,,,,Android 13,,,,,no,no,,,,https://www.91mobiles.com/nokia-c32-128gb-price-in-india?ty=specs
+Nokia,G20,,,,,,,60,Android 11,,,,,no,,,,,https://www.91mobiles.com/nokia-g20-128gb-price-in-india?ty=specs
+Nokia,G21,,,,,18,,90,Android 11,,,,,no,yes,,,,https://www.91mobiles.com/nokia-g21-128gb-price-in-india?ty=specs
+Nokia,G42 5G,,,,,20,,90,Android 13,,,,,,,,,,https://www.hmd.com/en_in/nokia-g-42/specs
+Motorola,g64 5G,2024,,,,33,,120,,,,,192,,,,,,https://us.smartprix.com/mobiles/motorola_moto_g64_5g_12gb_ram__vs_samsung_galaxy_f36_5g-cpd1l6qmyj5w_pd1g4a14fhg.php
+Nothing,CMF by Nothing Phone 2 Pro,2025,,,,33,,120,,,,,185,yes,,,,,https://www.91mobiles.com/cmf-phone-2-pro-price-in-india?ty=specs
+Nothing,Phone (3a) Lite,2025,,,,33,6.77,120,,,,,199,yes,no,,,,https://www.91mobiles.com/nothing-phone-3a-lite-256gb-price-in-india?ty=specs
+OnePlus,10 Pro,,,,,80,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oneplus-10-pro-256gb-price-in-india?ty=specs
+OnePlus,10R,,,,,80,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oneplus-10r-256gb-price-in-india?ty=specs
+OnePlus,10T,,,,,150,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oneplus-10t-256gb-price-in-india?ty=specs
+OnePlus,10T 5G,,,,,150,,120,,,,,,,yes,,,,https://www.91mobiles.com/oneplus-10t-256gb-price-in-india?ty=specs
+Nothing,Phone (4a),2026,,,,50,,120,,,,,204.5,yes,,,,,https://www.smartprix.com/mobiles/nothing-phone-4a-12gb-ram-256gb-ppd1ytnhbhk7
+OnePlus,9T,,,,,65,,120,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oneplus-9t-ppd1c667hwxp
+OnePlus,Nord 1,,,,,,,90,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oneplus-nord-8gb-ram-128gb-ppd1km1ivm9g
+OnePlus,Nord 2,,,,,65,,90,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oneplus-nord-2-ppd1z3nenng2
+OnePlus,Nord 2 5G,,,,,65,,90,,,,,,,yes,,,,https://www.smartprix.com/mobiles/oneplus-nord-2-ppd1z3nenng2
+OnePlus,Nord 2T,,,,,80,,90,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oneplus-nord-2t-5g-ppd1bz3re0gj
+OnePlus,Nord 3,,,,,80,,120,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oneplus-nord-3-5g-16gb-ram-256gb-ppd1amyj2dj6
+OnePlus,Nord CE 2,,,,,65,,90,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oneplus-nord-2-ce-5g-ppd1vb6k4202
+OnePlus,Nord CE 2 Lite,,,,,33,,120,,,,,,yes,,,,,https://www.smartprix.com/mobiles/oneplus-nord-ce-2-lite-5g-ppd1dhnh78au
+OnePlus,Nord CE 3,,,,,80,,120,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oneplus-nord-ce-3-5g-ppd1p2vvw021
+OnePlus,Nord CE 3 Lite,,,,,67,,120,,,,,,yes,,,,,https://www.smartprix.com/mobiles/oneplus-nord-ce-3-lite-5g-ppd11rema1vf
+OnePlus,Nord CE 5G,,,,,,,90,,,,,,,yes,,,,https://www.smartprix.com/mobiles/oneplus-nord-ce-5g-ppd10ju70i82
+OnePlus,Nord CE5 5G,2025,,,,80,,120,,MediaTek Dimensity 8350 Apex,,16,199,,,,,,https://www.smartprix.com/mobiles/oneplus-nord-ce-5-5g-8gb-ram-256gb-ppd1qyk0ajaa
+OnePlus,Nord N10 5G,,,,,30,,90,,,,,,,yes,,,,https://www.smartprix.com/mobiles/oneplus-nord-n10-ppd1isd9k9ls
+OnePlus,Nord N100,,,,,18,,90,,,,,,no,,,,,https://www.smartprix.com/mobiles/oneplus-nord-n100-ppd1ff6hgkd8
+OnePlus,Nord N200,,,,,18,,90,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oneplus-nord-n200-ppd1sd1ax0f9
+OnePlus,Nord N30 5G,,,,,67,,120,,,,,,,yes,,,,https://www.smartprix.com/mobiles/oneplus-nord-n30-5g-ppd1qrs7jlce
+OnePlus,Open,,,,,,,120,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oneplus-v-fold-ppd1sudk5glw
+OnePlus,11 5G,2023,,,,100,,120,,Qualcomm Snapdragon 8 Gen 2,,,205,,yes,,,,https://en.wikipedia.org/wiki/OnePlus_11
+OnePlus,13s 5G,2025,,,,80,,120,,Qualcomm Snapdragon 8 Elite,,32,185,,yes,,,,https://www.91mobiles.com/oneplus-13s-price-in-india?ty=specs
+OnePlus,15R 5G,2025,,,,80,,165,,Qualcomm Snapdragon 8 Gen 5,,32,218,,yes,,,,https://www.91mobiles.com/oneplus-15r-price-in-india?ty=specs
+OnePlus,8 Pro,,,,,30,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oneplus-8-pro-price-in-india?ty=specs
+OnePlus,8,,,,,30,,90,,,,,,yes,yes,,,,https://www.91mobiles.com/oneplus-8-price-in-india?ty=specs
+OnePlus,8T,,,,,65,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oneplus-8t-price-in-india?ty=specs
+OnePlus,9,,,,,65,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oneplus-9-price-in-india?ty=specs
+OnePlus,9 Pro,,,,,65,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oneplus-9-pro-price-in-india?ty=specs
+OnePlus,9R 5G,,,,,65,,120,,,,,,,yes,,,,https://www.91mobiles.com/oneplus-9r-price-in-india?ty=specs
+OnePlus,7 Pro 5G,,,,,30,,90,,,,,,,,,,,https://en.wikipedia.org/wiki/OnePlus_7
+OnePlus,6T McLaren Edition,,,,,,,60,,,,,,no,yes,,,,https://www.91mobiles.com/oneplus-6t-mclaren-edition-price-in-india?ty=specs
+OnePlus,8T Cyberpunk 2077 Edition,,,,,65,,120,,,,,,,,,,,https://www.techradar.com/news/oneplus-8t-cyberpunk-2077-edition-has-just-launched-with-a-striking-design
+OnePlus,8T Cyberpunk Edition,,,,,65,,120,,,,,,,,,,,https://www.techradar.com/news/oneplus-8t-cyberpunk-2077-edition-has-just-launched-with-a-striking-design
+OPPO,A3,,,,,45,,90,,,,,,no,yes,,,,https://www.oppo.com/en/smartphones/series-a/a3/specs/
+OPPO,A3 4G,,,,,45,,90,,,,,,no,yes,,,,https://www.mobolist.net/en/devices/oppo-a3-4g
+OPPO,A5 5G,2025,,,,45,,120,,,,,194,,yes,,,,https://www.mobolist.net/en/devices/oppo-a5-5g
+OPPO,A60,,,,,45,,90,,,,,,no,yes,,,,https://www.oppo.com/au/smartphones/series-a/a60/specs/
+OPPO,A80,,,,,45,,120,,,,,,,,,,,https://oppostore.co.uk/a80.html
+OPPO,F25 Pro,,,,,67,,120,,,,,,yes,,,,,https://www.fonearena.com/blog/418035/oppo-f25-pro-price-india-specifications.html
+OPPO,F27,,,,,45,,120,,,,,,yes,no,,,,https://www.91mobiles.com/oppo-f27-price-in-india
+OPPO,F31 5G,2025,,,,80,,120,,,,,185,yes,no,,,,https://www.91mobiles.com/oppo-f31-price-in-india
+OPPO,A58 5G,,,,,33,,90,,,,,,yes,,,,,https://www.fonearena.com/blog/378218/oppo-a58-price-specifications.html
+OPPO,A57 5G,,,,,,,90,,,,,,,no,,,,https://gsmchina.com/smartphones/oppo-a57-5g/
+OPPO,A56 5G,,,,,,,60,,,,,,,,,,,https://gsmchina.com/smartphones/oppo-a56-5g/
+OPPO,A55 5G,,,,,10,,,,,,,,,,,,,https://www.fonearena.com/blog/331690/oppo-a55-5g-price-specifications.html
+OPPO,Find N2,,,,,67,,120,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oppo-find-n2-5g-ppd1yxoe2d5j
+OPPO,K13 5G,2025,,,,80,,120,,,,,208,,,,,,https://www.fonearena.com/blog/452293/oppo-k13-5g-on-sale-launch-offers.html/amp
+OPPO,Find N2 Flip,,,,,44,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/oppo-find-n2-flip-ppd1984xp8yh
+OPPO,Find N3,,,,,67,,120,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oppo-find-n3-ppd1gn3bk1cg
+OPPO,Find N3 Flip,,,,,44,,120,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oppo-find-n3-flip-ppd1ntaad6ln
+OPPO,Find X5,,,,,80,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/oppo-find-x5-5g-ppd1m1dgrkkc
+OPPO,Find X5 Pro,,,,,80,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/oppo-find-x5-pro-5g-ppd1hdcz1vtd
+OPPO,Find X6,,,,,80,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/oppo-find-x6-ppd14s8yc670
+OPPO,Find X6 Pro,,,,,100,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/oppo-find-x6-pro-ppd1equy3qiw
+OPPO,Find X7,,,,,100,,120,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oppo-find-x7-5g-ppd1lf2625uu
+OPPO,Find X7 Ultra,,,,,100,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/oppo-find-x7-ultra-ppd1ijsf34r4
+OPPO,K11x,,,,,67,,120,,,,,,yes,,,,,https://us.smartprix.com/mobiles/oppo-k11x-5g-ppd1ofe3eom9
+OPPO,K12 Plus,,,,,80,,120,,,,,,yes,yes,,,,https://us.smartprix.com/mobiles/oppo-k12-plus-ppd1fc5000r6
+OPPO,K13 Turbo 5G,2025,,,,80,,120,,,,,207,,,,,,https://us.smartprix.com/mobiles/oppo-k13-turbo-ppd174lunsvz
+OPPO,K13 Turbo Pro 5G,2025,,,,80,,120,,,,,208,,,,,,https://us.smartprix.com/mobiles/oppo-k13-turbo-pro-12gb-256gb-ppd1kes4c9yv
+OPPO,K13x 5G,2025,,,,45,,120,,,,,194,,,,,,https://us.smartprix.com/mobiles/oppo-k13x-5g-6gb-ram-128gb-ppd1hv5qoojn
+OPPO,K14 5G,2026,,,,45,,120,,,,,216,,yes,,,,https://us.smartprix.com/mobiles/oppo-k14-5g-6gb-ram-256gb-ppd17bowqiaj
+OPPO,K14x 5G,2026,,,,45,,120,,,,,212,,,,,,https://us.smartprix.com/mobiles/oppo-k14x-5g-ppd1259g0jtq
+OPPO,K7 5G,,,,,30,,,,,,,,,yes,,,,https://www.smartprix.com/mobiles/oppo-k7-5g-ppd1zr905hzz
+OPPO,K7x,,,,,30,,,,,,,,yes,,,,,https://us.smartprix.com/mobiles/oppo-k7x-5g-ppd1xk9a0bzo
+OPPO,K9 5G,,,,,65,,90,,,,,,,,,,,https://www.smartprix.com/mobiles/oppo-k9-5g-ppd1lfughiy2
+OPPO,K9 Pro 5G,,,,,60,,120,,,,,,,yes,,,,https://us.smartprix.com/mobiles/oppo-k9-pro-5g-ppd11wjzrtiz
+OPPO,K9x,,,,,,,,,,,,,yes,,,,,https://www.smartprix.com/mobiles/oppo-k9x-5g-ppd1skrgvy65
+OPPO,K10x,,,,,67,,120,,,,,,yes,,,,,https://www.smartprix.com/mobiles/oppo-k10x-5g-ppd12dlky6l0
+OPPO,K11,,,,,100,,120,,,,,,yes,yes,,,,https://www.smartprix.com/mobiles/oppo-k11-5g-ppd1s3xr9bu5
+OPPO,Reno10 5G,,,,,67,,120,,,,,,,yes,,,,https://www.91mobiles.com/oppo-reno10-price-in-india?ty=specs
+OPPO,Reno10 Pro 5G,,,,,80,,120,,,,,,,yes,,,,https://www.91mobiles.com/oppo-reno10-pro-price-in-india?ty=specs
+OPPO,Reno10 Pro+ 5G,,,,,100,,120,,,,,,,yes,,,,https://www.91mobiles.com/oppo-reno10-pro-plus-price-in-india?ty=specs
+OPPO,Reno11 F,,,,,67,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oppo-reno11-f-price-in-india?ty=specs
+OPPO,Reno11 Pro,,,,,80,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oppo-reno11-pro-price-in-india?ty=specs
+OPPO,Reno12,,,,,80,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oppo-reno12-price-in-india?ty=specs
+OPPO,Reno12 F,,,,,45,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oppo-reno12-f-price-in-india?ty=specs
+OPPO,Reno12 Pro,,,,,80,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oppo-reno12-pro-price-in-india?ty=specs
+OPPO,Reno13,,,,,80,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oppo-reno13-price-in-india?ty=specs
+OPPO,Reno13 F,,,,,45,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/oppo-reno13-f-price-in-india?ty=specs
+OPPO,Reno12 F 4G,,,,,45,,120,,,,,,no,,,,,https://us.smartprix.com/mobiles/oppo_reno_12f_5g_vs_oppo_reno_12f_4g-cpd1hbyb8dyv_pd1dgfg4e7q.php
+OPPO,Reno13 F 4G,,,,,45,,120,,,,,,no,yes,,,,https://www.oppo.com/bd/smartphones/series-reno/reno13-f-4g/specs/
+OPPO,Reno14 5G,2025,,,,80,,120,,,,,187,,yes,,,,https://www.91mobiles.com/oppo-reno14-price-in-india?ty=specs
+OPPO,Reno15 5G,2026,,,,80,,120,,,,50,197,,yes,,,,https://www.91mobiles.com/oppo-reno15-price-in-india?ty=specs
+OPPO,Reno15c 5G,2026,,,,80,,120,,,,50,195,,yes,,,,https://www.91mobiles.com/oppo-reno15-c-price-in-india?ty=specs
+OPPO,Reno3 5G,,,,,30,,,,,,,,,yes,,,,https://androidauthority.com/oppo-reno-3-5g-1069607
+OPPO,Reno3 Pro 5G,,,,,30,,90,,,,,,,yes,,,,https://androidauthority.com/oppo-reno-3-5g-1069607
+OPPO,Reno4 5G,,,,,65,,90,,,,,,,yes,,,,https://www.fonearena.com/blog/314272/oppo-reno-4-pro-reno-4-price-specifications.html
+OPPO,Reno4 Pro 5G,,,,,65,,90,,,,,,,yes,,,,https://www.fonearena.com/blog/314272/oppo-reno-4-pro-reno-4-price-specifications.html
+OPPO,Reno5 5G,,,,,65,,90,,,,,,,,,,,https://telecomtalk.info/?p=316160
+OPPO,Reno5 Pro 5G,,,,,65,,90,,,,,,,,,,,https://telecomtalk.info/?p=316160
+OPPO,Reno5 Pro+ 5G,,,,,65,,90,,,,,,,yes,,,,https://www.smartprix.com/mobiles/oppo-reno-5-pro-plus-5g-ppd1zupwn41s
+OPPO,Reno6 Pro 5G,,,,,65,,90,,,,,,,yes,,,,https://us.smartprix.com/mobiles/oppo-reno-6-pro-5g-ppd1owuxzgei
+OPPO,Reno7 5G,,,,,65,,90,,,,,,,yes,,,,https://www.91mobiles.com/oppo-reno7-price-in-india?ty=specs
+OPPO,Reno6 5G,,,,,65,,90,,,,,,,yes,,,,https://us.smartprix.com/mobiles/oppo-reno-6-ppd11laowfkn
+OPPO,Reno6 Pro+ 5G,,,,,65,,90,,,,,,,yes,,,,https://www.91mobiles.com/oppo-reno-6-pro-plus-5g-price-in-india?ty=specs
+OPPO,Reno7 Pro 5G,,,,,65,,90,,,,,,,yes,,,,https://www.oppo.com/in/smartphones/series-reno/reno7-pro-5g/specs/
+OPPO,Reno8 5G,,,,,80,,90,,,,,,,yes,,,,https://www.smartprix.com/mobiles/oppo-reno8-5g-ppd1yev80zs5
+OPPO,Reno8 Pro 5G,,,,,80,,120,,,,,,,yes,,,,https://www.oppo.com/in/smartphones/series-reno/reno8-pro-5g/specs/
+OPPO,Reno8 Pro+ 5G,,,,,80,,120,,,,,,,yes,,,,https://us.smartprix.com/mobiles/oppo-reno8-pro-plus-5g-ppd18h9p9zqd
+realme,13 5G,,,,,45,,120,,,,,,,no,,,,https://www.91mobiles.com/realme-13-5g-price-in-india?ty=specs
+OPPO,Reno9 Pro 5G,,,,,67,,120,,,,,,,yes,,,,https://us.smartprix.com/mobiles/oppo-reno9-pro-5g-ppd1apdzyek7
+OPPO,Reno9 Pro+ 5G,,,,,80,,120,,,,,,,yes,,,,https://us.smartprix.com/mobiles/oppo-reno-9-pro-plus-ppd1n1ykx8ij
+realme,13+ 5G,,,,,80,,120,,,,,,,,,,,https://www.91mobiles.com/realme-13-plus-5g-price-in-india?ty=specs
+realme,13 Pro 5G,,,,,45,,120,,,,,,,,,,,https://us.smartprix.com/mobiles/realme-13-pro-5g-12gb-ram-256gb-ppd16rjqs2y6
+realme,14 Pro 5G,,,,,45,,120,,,,,,,,,,,https://us.smartprix.com/mobiles/realme-14-pro-5g-ppd1yx2v429w
+realme,14 Pro Lite 5G,2025,,,,45,,120,,,,,188,,,,,,https://us.smartprix.com/mobiles/realme-14-pro-lite-5g-8gb-ram-256gb-ppd1cxpq66bp
+realme,14x 5G,2024,,,,45,,120,,,,,197,,,,,,https://us.smartprix.com/mobiles/realme-14x-ppd1kqud4uex
+realme,15 Lite 5G,2025,,,,80,,120,,Mediatek Dimensity 7300 Energy,,16,185,,,,,,https://us.smartprix.com/mobiles/realme-15-lite-5g-ppd16kkytl5c
+realme,15T 5G,2025,,,,60,,120,,,,,183,,,,,,https://us.smartprix.com/mobiles/realme-15t-ppd1s304c3mq
+realme,15x 5G,2025,,,,60,,144,,,,,212,,,,,,https://us.smartprix.com/mobiles/realme-15x-5g-ppd1bvf80fu0
+realme,16 Pro 5G,2026,,,,80,,,,,,,,,,,,,https://us.smartprix.com/mobiles/realme-16-pro-5g-ppd1ixzdy0z5
+realme,16 Pro+ 5G,2026,,,,80,,144,,,,,198,,yes,,,,https://www.smartprix.com/mobiles/realme-16-pro-plus-5g-ppd1lekbuap4
+realme,C61,,,,,,,90,,,,,,no,no,,,,https://www.91mobiles.com/realme-c61-price-in-india?ty=specs
+realme,C63 5G,2024,,,,10,,120,,,,,192,,,,,,https://us.smartprix.com/mobiles/realme-c63-5g-ppd12e87u5po
+realme,C83 5G,2026,,,,15,,144,,,,,212,,,,,,https://us.smartprix.com/mobiles/realme-c83-5g-ppd1867s4tap
+realme,GT 6,2024,,,,120,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/realme-gt-6-512gb-price-in-india?ty=specs
+realme,GT 6T,2024,,,,120,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/realme-gt-6t-price-in-india?ty=specs
+realme,Gt 7,2025,,,,120,,120,,,,,206,yes,yes,,,,https://www.91mobiles.com/realme-gt-7-512gb-price-in-india?ty=specs
+realme,Narzo 80 Lite 4G,2025,,,,15,,90,,Unisoc T7250,,5,201,no,no,,,,https://www.91mobiles.com/realme-narzo-80-lite-4g-price-in-india?ty=specs
+realme,Narzo 70 5G,,,,,45,,120,,,,,,,no,,,,https://www.91mobiles.com/realme-narzo-70-price-in-india?ty=specs
+realme,Narzo 70 Turbo 5G,,,,,45,,120,,,,,,,,,,,https://us.smartprix.com/mobiles/realme-narzo-70-turbo-5g-ppd18zdmkshg
+realme,Narzo 90 5G,2025,,,,60,,120,,MediaTek Dimensity 6400 Max,,50,181,,no,,,,https://www.91mobiles.com/realme-narzo-90-price-in-india?ty=specs
+realme,Narzo 90x 5G,2025,,,,60,,144,,MediaTek Dimensity 6300,,8,212,,no,,,,https://www.91mobiles.com/realme-narzo-90x-price-in-india?ty=specs
+realme,Narzo 80 Lite 5G,2025,,,,15,,120,,MediaTek Dimensity 6300,,8,197,,,,,,https://us.smartprix.com/mobiles/realme-narzo-80-lite-ppd19eiq023b
+realme,Narzo N61,,,,,,,90,,,,,,no,no,,,,https://www.91mobiles.com/realme-narzo-n61-price-in-india?ty=specs
+realme,Narzo N63,,,,,45,,90,,,,,,no,no,,,,https://www.91mobiles.com/realme-narzo-n63-price-in-india?ty=specs
+realme,Narzo N65 5G,,,,,15,,120,,,,,,,no,,,,https://www.91mobiles.com/realme-narzo-n65-5g-price-in-india?ty=specs
+realme,Neo 7,,,,,80,,120,,,,,,yes,yes,,,,https://www.91mobiles.com/realme-neo-7-price-in-india?ty=specs
+realme,Note 50,,,,,,,90,,,,,,no,no,,,,https://www.91mobiles.com/realme-note-50-price-in-india?ty=specs
+realme,Note 60x,,,,,,,90,,,,,,no,no,,,,https://www.91mobiles.com/realme-note-60x-price-in-india?ty=specs
+realme,P1 5G,,,,,45,,120,,,,,,,no,,,,https://www.91mobiles.com/realme-p1-price-in-india-amp
+realme,P1 Pro 5G,,,,,45,,120,,,,,,,no,,,,https://www.91mobiles.com/realme-p1-pro-256gb-price-in-india?ty=specs
+realme,P1 Speed 5G,,,,,45,,120,,,,,,,no,,,,https://www.91mobiles.com/realme-p1-speed-5g-price-in-india?ty=specs
+realme,P2 Pro 5G,,,,,80,,120,,,,,,,no,,,,https://www.91mobiles.com/realme-p2-pro-price-in-india?ty=specs
+realme,P3 5G,2025,,,,45,,120,,,,,194,,no,,,,https://www.91mobiles.com/realme-p3-price-in-india?ty=specs
+realme,P3 Lite 5G,2025,,,,45,,120,,,,,197,,no,,,,https://www.91mobiles.com/realme-p3-lite-price-in-india?ty=specs
+realme,P3 Pro 5G,2025,,,,80,,120,,,,,190,,no,,,,https://www.91mobiles.com/realme-p3-pro-price-in-india?ty=specs
+realme,P3 Ultra 5G,2025,,,,80,,120,,,,,183,,no,,,,https://www.91mobiles.com/realme-p3-ultra-price-in-india?ty=specs
+realme,P3x 5G,2025,,,,45,,120,,,,,197,,no,,,,https://www.91mobiles.com/realme-p3x-price-in-india?ty=specs
+realme,P4 5G,2025,,,,80,,144,,,,,185,,no,,,,https://www.91mobiles.com/realme-p4-price-in-india?ty=specs
+realme,P4 Lite,2026,,,,15,,90,,,,,201,no,no,,,,https://www.91mobiles.com/realme-p4-lite-4g-128gb-price-in-india?ty=specs
+realme,P4 Power 5G,2026,,,,80,,144,,,,16,219,,no,,,,https://www.91mobiles.com/realme-p4-power-price-in-india?ty=specs
+realme,P4 Pro 5G,2025,,,,80,,144,,,,,189,,no,,,,https://www.91mobiles.com/realme-p4-pro-256gb-12gb-ram-price-in-india?ty=specs
+realme,P4x 5G,2025,,,,45,,144,,,,,208,,no,,,,https://www.91mobiles.com/realme-p4x-256gb-8gb-ram-price-in-india?ty=specs
+Samsung,Galaxy A04,,,,,15,,60,,,,,,no,,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_A04
+Samsung,Galaxy A06 5G,2025,,,,25,,90,,,,,191,,,,,,https://www.91mobiles.com/samsung-galaxy-a06-5g-128gb-price-in-india?ty=specs
+Samsung,Galaxy A07 LTE,2025,,,,25,,90,,,,8,184,no,,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_A07
+Samsung,Galaxy A14 5G,2023,,,,15,,90,,,,,202,,,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_A14
+Samsung,Galaxy A15 5G,2023,,,,25,,90,,,,,200,,,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_A15
+Samsung,Galaxy A24,,,,,25,,90,,,,,,no,,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_A24
+Samsung,Galaxy A34,,,,,25,,120,,,,,,yes,,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_A34_5G
+Samsung,Galaxy A54,,,,,25,,120,,,,,,yes,,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_A54_5G
+Samsung,Galaxy C5,,,,,10,,,,,,,,no,yes,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_C5
+Samsung,Galaxy C7 Pro,,,,,18,,,,,,,,no,,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_C7
+Samsung,Galaxy C9 Pro,,,,,18,,,,,,,,no,yes,,,,https://en.wikipedia.org/wiki/Samsung_Galaxy_C9_Pro
+Samsung,Galaxy F06 5G,2025,,,,25,,90,,,,,191,,no,,,,https://www.91mobiles.com/samsung-galaxy-f06-price-in-india?ty=specs
+Samsung,Galaxy F07,2025,,,,25,,90,,,,,184,no,no,,,,https://www.91mobiles.com/samsung-galaxy-f07-price-in-india?ty=specs
+Samsung,Galaxy M04,,,,,,,,,,,,,no,no,,,,https://www.91mobiles.com/samsung-galaxy-m04-128gb-price-in-india?ty=specs
+Samsung,Galaxy M06 5G,2025,,,,25,,90,,MediaTek Dimensity 6300,,8,191,,no,,,,https://www.91mobiles.com/samsung-galaxy-m06-price-in-india?ty=specs
+Samsung,Galaxy M07,2025,,,,25,,90,,,,,184,no,no,,,,https://www.91mobiles.com/samsung-galaxy-m07-4g-price-in-india?ty=specs
+Samsung,Galaxy M17 5G,2025,,,,25,,90,,Samsung Exynos 1330,,13,192,,yes,,,,https://www.91mobiles.com/samsung-galaxy-m17-price-in-india?ty=specs
+Samsung,Galaxy M56 5G,2025,,,,45,,120,,,,,180,,yes,,,,https://www.91mobiles.com/samsung-galaxy-m56-256gb-price-in-india?ty=specs

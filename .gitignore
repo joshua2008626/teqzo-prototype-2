@@ -1,0 +1,19 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.pem
+# build output / caches
+target/
+dist/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+.idea/
+.vscode/
+*.iml
+.DS_Store
+# the source dataset is not redistributed
+*.db
+*.sqlite

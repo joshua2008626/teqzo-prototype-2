@@ -1,0 +1,32 @@
+model,brand,price,rating,ratings_count,reviews_count,ram,rom,battery,display_inch,rear_camera,front_camera,processor
+"Samsung Galaxy S26 Ultra 5G (Cobalt Violet, 512 GB)",Samsung,129999.0,4.5,189.0,19.0,12,512,5000,6.9,200MP + 50MP,12MP,Snapdragon 8 Elite Gen 5 Processor
+"Samsung Galaxy S26 Ultra 5G (Black, 256 GB)",Samsung,119999.0,4.5,200.0,20.0,12,256,5000,6.9,200MP + 50MP,12MP,Snapdragon 8 Elite Gen 5 Processor
+"Samsung Galaxy S26 Ultra 5G (Black, 256 GB)",Samsung,119999.0,4.5,200.0,20.0,12,256,5000,6.9,200MP + 50MP,12MP,Snapdragon 8 Elite Gen 5 Processor
+"Samsung Galaxy S26 Ultra 5G (Black, 256 GB)",Samsung,124999.0,4.5,200.0,20.0,12,256,5000,6.9,200MP + 50MP,12MP,Snapdragon 8 Elite Gen 5 Processor
+"Samsung Galaxy A17 5G (Gray, 128 GB)",Samsung,17599.0,4.2,500.0,50.0,6,128,5000,6.7,50MP + 5MP + 2MP,13MP,Exynos 1330 Processor
+"REDMI 13 5G (Hawaiian Blue, 128 GB)",REDMI,12499.0,4.3,900.0,90.0,6,128,5030,6.79,108MP + 2MP,13MP,Snapdragon 4 Gen 2 Processor
+"REDMI 13 5G (Orchid Pink, 256 GB)",REDMI,14499.0,4.3,300.0,30.0,8,256,5030,6.79,108MP + 2MP,13MP,Snapdragon 4 Gen 2 Processor
+"MOTOROLA g67 power 5G (Pantone Parachute, 128 GB)",MOTOROLA,15999.0,4.4,120.0,12.0,8,128,7000,6.7,50MP + 8MP,32MP,Snapdragon 6s Gen 4 Processor
+"Apple iPhone 17 Pro (Cosmic Orange, 256 GB)",Apple,134900.0,4.7,80.0,8.0,12,256,4252,6.3,48MP + 48MP + 48MP,18MP,A19 Pro Processor
+"Google Pixel 10a (Obsidian, 128 GB)",Google,49999.0,4.4,35.0,4.0,8,128,5100,6.3,48MP + 13MP,13MP,Tensor G4 Processor
+"Infinix Note 50s 5G+ (Titanium Grey, 128 GB)",Infinix,13999.0,4.1,410.0,40.0,8,128,5500,6.78,64MP + 0MP,13MP,Dimensity 7020 Processor
+"vivo V60e (Noble Gold, 256 GB)",vivo,29999.0,4.3,210.0,21.0,8,256,6500,6.77,200MP + 8MP,50MP; f/2.2; FOV 77°; 3P lens,Dimensity 7360 Turbo Processor
+"IQOO Z10 5G (Glacier Silver, 128 GB)",IQOO,21999.0,0,0.0,0.0,0,128,0,0.0,0MP,,NA Processor
+Kechaoda A27,Kechaoda,899.0,4,646.0,881.0,32,32,800,0.66,0MP,0MP,NA Processor
+"Nokia 105 Classic Single Sim Keypad Phone, Without Charger",Nokia,1499.0,4,1200.0,10.0,4,4,800,1.8,0MP,0MP,NA Processor
+"Tab Pro 5G (Grey, 128 GB)",Samsung,45999.0,4.1,50.0,5.0,8,128,8000,11.0,13MP,8MP,Snapdragon 7 Processor
+"Weird Phone (Blue, 64 GB)",Samsung,0.0,4,1.0,1.0,4,64,4000,6.5,13MP,8MP,Unisoc T606 Processor
+"Samsung Galaxy S26+ 5G (Cobalt Violet, 512 GB)",Samsung,99999.0,4.4,50.0,5.0,12,512,4900,6.7,50MP + 12MP,12MP,2600 Processor
+"Samsung Galaxy S26 5G (Sky Blue, 256 GB)",Samsung,87999.0,4.6,60.0,6.0,12,256,4300,6.3,50MP + 12MP,12MP,2600 Processor
+"POCO C61  - Locked with Airtel Prepaid (Ethereal Blue, 64 GB)",POCO,7499.0,4.0,100.0,10.0,4,64,5000,6.71,8MP,5MP,Helio G36 Processor
+"POCO C61 (Diamond Dust Black, 128 GB)",POCO,7999.0,4.0,100.0,10.0,4,128,5000,6.71,8MP,5MP,Helio G36 Processor
+"Samsung M36 5G (Black, 256 GB)",Samsung,16113.0,4.2,10.0,1.0,8,256,5000,6.7,50MP + 8MP + 2MP,12MP,Exynos 1380 Processor
+"Samsung Galaxy M36 5G (Orange, 128 GB)",Samsung,15113.0,4.2,10.0,1.0,8,128,5000,6.7,50MP + 8MP + 2MP,12MP,Exynos 1380 Processor
+"Infinix GT 30 5G+ Cyber Blue 128 (Cyber Blue, 128 GB)",Infinix,19499.0,4.1,90.0,9.0,8,128,5500,6.78,64MP,13MP,Dimensity 7400 Processor
+"Infinix GT 30 5G+ Pulse Green 128 (Pulse Green, 128 GB)",Infinix,19499.0,4.1,90.0,9.0,8,128,5500,6.78,64MP,13MP,Dimensity 7400 Processor
+"REDMI Note-14 Pro 5G (Ivy Green, 256 GB)",REDMI,20438.0,4.2,70.0,7.0,8,256,5110,6.67,50MP + 8MP,20MP,Dimensity 7300 Ultra Processor
+"Xiaomi REDMI Note 14 Pro 5G (Titan Black, 128 GB)",Xiaomi,19438.0,4.2,70.0,7.0,8,128,5110,6.67,50MP + 8MP,20MP,Dimensity 7300 Ultra Processor
+"CMF by Nothing Phone 2 Pro (Black, 256 GB)",CMF,18999.0,4.2,70.0,7.0,8,256,5000,6.77,50MP + 50MP + 8MP,16MP,Dimensity 7300 Pro 5G Processor
+"OPPO K13x 5G 6000mAh and 45W SUPERVOOC Charger & AI (Sunset Peach, 128 GB)",OPPO,13999.0,4.2,70.0,7.0,6,128,6000,6.67,50MP + 2MP,8MP,Dimensity 6300 Processor
+"OPPO K13x 5G (Breeze Blue, 128 GB)",OPPO,14499.0,4.2,70.0,7.0,6,128,6000,6.67,50MP + 2MP,8MP,Dimensity 6300 Processor
+"Apple iPhone 17 (Black, 256 GB)",Apple,82900.0,4.7,80.0,8.0,0,256,0,6.3,48MP + 48MP,18MP,"A19 Chip, 6 Core Processor"
